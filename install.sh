@@ -15,5 +15,3 @@ snap install intellij-idea-community --classic
 apt install git 
 git config --global user.name "Vafeen"
 git config --global user.email "666av6@gmail.com"
-
-snap install gnome-extension-manager
