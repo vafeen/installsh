@@ -1,5 +1,7 @@
 #!/bin/sh
 
+sudo apt update
+sudo apt install snapd
 snap install code --classic
 snap install android-studio --classic
 snap install obsidian --classic
