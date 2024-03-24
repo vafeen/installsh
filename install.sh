@@ -12,5 +12,5 @@ sudo apt-get install google-chrome-stable
 sudo snap install intellij-idea-community --classic
 sudo apt install git 
 git config --global user.name "Vafeen"
-git config --global user.email "vaf_art@mail.ru"
+git config --global user.email "666av6@gmail.com"
 
